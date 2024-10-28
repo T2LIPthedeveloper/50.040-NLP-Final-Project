@@ -1,0 +1,3 @@
+outputs/*
+# Keep the directory but not the contents in the repo
+!outputs/.gitkeep
